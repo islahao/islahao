@@ -1,5 +1,4 @@
-## Hi there 👋
-
+Trying to learn python simulation and kinematics probably. 
 <!--
 **islahao/islahao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
